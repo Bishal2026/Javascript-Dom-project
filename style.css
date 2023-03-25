@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#button{
+    padding: 36px;
+    font-size: 40px;
+    background-color: rgb(20, 7, 32); 
+    color: aqua;
+    align-items: center;
+    border-radius: 5px;
+
+}
